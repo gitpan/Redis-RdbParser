@@ -2,6 +2,7 @@ Changes
 Makefile.PL
 MANIFEST
 README
+LICENSE
 lib/Redis/RdbParser.pm
 t/empty_database.t
 t/dump/dictionary.rdb
@@ -42,3 +43,5 @@ t/regular_sorted_set.t
 t/sorted_set_as_ziplist.t
 docs/RDB_File_Format.textile
 docs/RDB_Version_History.textile
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
