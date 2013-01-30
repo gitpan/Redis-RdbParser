@@ -1,7 +1,7 @@
 ---
 abstract: 'Redis rdb dump file parser'
 author:
-  - 'fenggu <flygoast@126.com>'
+  - 'FengGu <flygoast@126.com>'
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
@@ -18,4 +18,4 @@ no_index:
     - t
     - inc
 requires: {}
-version: 0.04
+version: 0.05
